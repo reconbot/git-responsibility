@@ -1,0 +1,27 @@
+{
+  "name": "git-responsibility",
+  "version": "0.0.1",
+  "description": "don't git blame, take git responsibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reconbot/git-responsibility.git"
+  },
+  "keywords": [
+    "git",
+    "blame",
+    "responsibility"
+  ],
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/reconbot/git-responsibility/issues"
+  },
+  "bin": {
+    "git-responsibility": "./index.js",
+    "git-resp": "./index.js"
+  }
+}
