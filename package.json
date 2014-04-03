@@ -1,6 +1,6 @@
 {
   "name": "git-responsibility",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "don't git blame, take git responsibility",
   "main": "index.js",
   "scripts": {
